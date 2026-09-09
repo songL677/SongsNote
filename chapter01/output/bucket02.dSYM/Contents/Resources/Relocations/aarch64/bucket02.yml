@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/song/Code_Project/C_note/chapter01/output/bucket02'
+relocations:     []
+...
